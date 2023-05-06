@@ -1,10 +1,10 @@
 import openai
 import os
 
-# OpenAI environment variables
+# OpenAI environment variables - create your own .env file
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-# Spotify environment variables
+# Spotify environment variables - create your own .env file
 CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
 REDIRECT_URI = os.getenv("SPOTIFY_REDIRECT_URL")

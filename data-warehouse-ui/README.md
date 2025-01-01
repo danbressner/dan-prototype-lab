@@ -1,6 +1,8 @@
 # Data Warehouse Workspace UI
 
-A modern, interactive frontend mockup for a data warehouse workspace built with React, TypeScript, and Tailwind CSS.
+A modern, interactive frontend mockup for a data warehouse workspace built with React, TypeScript, and Tailwind CSS. I really just wanted to visualize the cost management feature, which I think should be a first-class citizen on any warehouse/lakehouse homepage..
+
+![Workspace UI](https://i.imgur.com/8K0qRjV.png)
 
 ## Key Features
 
